@@ -1,2 +1,2 @@
 # ExpenseTracker
-A bill an expense tracker for your daily needs 
+A bill and expense tracker for your daily needs 
