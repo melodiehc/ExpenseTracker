@@ -8,7 +8,7 @@ This is a simple expense tracking app for keeping track of your personal finance
 - Add expenses with details like name, amount, date etc
 - View all added expenses
 - View total expense amount
-- Categories expenses (optional)
+- Categories expenses 
 
 ## Pages
 The app has the following pages:
